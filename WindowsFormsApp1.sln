@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaccineDoseApp", "WindowsFormsApp1\VaccineDoseApp.csproj", "{16A313FA-634A-4B45-8FBE-36B9079F7201}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16A313FA-634A-4B45-8FBE-36B9079F7201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A313FA-634A-4B45-8FBE-36B9079F7201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A313FA-634A-4B45-8FBE-36B9079F7201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A313FA-634A-4B45-8FBE-36B9079F7201}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ED7A1F3-8C49-42E9-8315-B1D38668398D}
+	EndGlobalSection
+EndGlobal
